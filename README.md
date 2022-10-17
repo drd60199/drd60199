@@ -1,4 +1,4 @@
-Hi there! 
+Hi there! 👋
 
 I am Damien from the beautiful state of Virginia in the United States. 
 I am a college student majoring in computer science.
